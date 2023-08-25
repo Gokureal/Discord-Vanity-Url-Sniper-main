@@ -4,3 +4,4 @@ node indir
 
 indir bat aç
 çalıştır bat aç
+bu kadar salaksan bile yaparsın
