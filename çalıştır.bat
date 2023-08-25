@@ -1,4 +1,4 @@
 @echo off
-title Ayhu Sniper
+title Goku Sniper
 node sniper.js
 pause
